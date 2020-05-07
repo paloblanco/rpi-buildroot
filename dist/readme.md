@@ -19,9 +19,9 @@ For those interested in building/customizing PICOPi and who are not already fami
 I sacrificed an extra second or two in boot time for ease of deployment. No more having to flash anything. You can simply unzip the contents of the PICOPi archive onto a standard FAT32 formated SD card.
 
 ## What is it?
-```
-PICO-8 is a fantasy console for making, sharing and playing tiny games and other computer programs. When you turn it on, the machine greets you with a shell for typing in Lua commands and provides simple built-in tools for creating your own cartridges. I fell in love this this little virtual console from day one. It catered perfectly to my 8-bit/16-bit graphic and C64 nostalgia.
-```
+
+> PICO-8 is a fantasy console for making, sharing and playing tiny games and other computer programs. When you turn it on, the machine greets you with a shell for typing in Lua commands and provides simple built-in tools for creating your own cartridges. I fell in love this this little virtual console from day one. It catered perfectly to my 8-bit/16-bit graphic and C64 nostalgia.
+
 
 ## PICO-8 on the MinnowBoard
 Some time ago, I made a similar image for the Minnowboard since there was no PICO-8 build for ARM at the time:
